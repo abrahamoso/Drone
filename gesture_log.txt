@@ -1,0 +1,3 @@
+2024-12-18 23:52:01,965 - INFO: Starting video stream...
+2024-12-18 23:52:54,570 - INFO: Connected to Arduino on COM3
+2024-12-18 23:53:19,872 - INFO: Application closed.
